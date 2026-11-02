@@ -1,0 +1,10 @@
+{
+  "NIM": 12345,
+  "Nama": "Budi Santoso",
+  "Jurusan": "Teknik Informatika",
+  "MataKuliah": [
+    "Pemrograman",
+    "Basis Data",
+    "Jaringan"
+  ]
+}

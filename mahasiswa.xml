@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Mahasiswa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NIM>12345</NIM>
+  <Nama>Budi Santoso</Nama>
+  <Jurusan>Teknik Informatika</Jurusan>
+  <MataKuliah>
+    <string>Pemrograman</string>
+    <string>Basis Data</string>
+    <string>Jaringan</string>
+  </MataKuliah>
+</Mahasiswa>

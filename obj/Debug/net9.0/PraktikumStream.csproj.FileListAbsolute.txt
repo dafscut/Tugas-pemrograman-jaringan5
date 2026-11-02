@@ -1,0 +1,14 @@
+C:\litbang\PraktikumStream\obj\Debug\net9.0\PraktikumStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\litbang\PraktikumStream\obj\Debug\net9.0\PraktikumStream.AssemblyInfoInputs.cache
+C:\litbang\PraktikumStream\obj\Debug\net9.0\PraktikumStream.AssemblyInfo.cs
+C:\litbang\PraktikumStream\obj\Debug\net9.0\PraktikumStream.csproj.CoreCompileInputs.cache
+C:\litbang\PraktikumStream\bin\Debug\net9.0\PraktikumStream.exe
+C:\litbang\PraktikumStream\bin\Debug\net9.0\PraktikumStream.deps.json
+C:\litbang\PraktikumStream\bin\Debug\net9.0\PraktikumStream.runtimeconfig.json
+C:\litbang\PraktikumStream\bin\Debug\net9.0\PraktikumStream.dll
+C:\litbang\PraktikumStream\bin\Debug\net9.0\PraktikumStream.pdb
+C:\litbang\PraktikumStream\obj\Debug\net9.0\PraktikumStream.dll
+C:\litbang\PraktikumStream\obj\Debug\net9.0\refint\PraktikumStream.dll
+C:\litbang\PraktikumStream\obj\Debug\net9.0\PraktikumStream.pdb
+C:\litbang\PraktikumStream\obj\Debug\net9.0\PraktikumStream.genruntimeconfig.cache
+C:\litbang\PraktikumStream\obj\Debug\net9.0\ref\PraktikumStream.dll

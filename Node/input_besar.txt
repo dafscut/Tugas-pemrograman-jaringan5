@@ -1,0 +1,8 @@
+Ini adalah contoh teks panjang untuk menguji proses data stream handling.
+Data ini akan dibaca sedikit demi sedikit menggunakan Readable Stream,
+ditampung sementara di buffer, lalu ditulis ke file tujuan menggunakan
+Writable Stream. Dengan metode pipe(), proses salin berjalan bertahap
+tanpa harus memuat seluruh isi file ke dalam RAM sekaligus.
+
+Baris tambahan untuk memperpanjang isi file agar aliran data terlihat.
+Pemrograman Jaringan - Data Stream Handling, Serialisasi, dan Deserialisasi.
